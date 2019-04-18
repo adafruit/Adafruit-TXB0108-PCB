@@ -13,3 +13,13 @@ That's where this lovely chip, the TXB0108 bi-directional level converter comes 
 __Since this chip is a special bi-directional level shifter it does not have strong output pins that can drive LEDs or long cables, it's meant to sit on a breadboard between two logic chips!__ If you do not need instant bi-directional support, we suggest the 74LVX245 as below which has strong output drive.
 
 This breakout saves you from having to solder the very fine pitch packages that this chip comes with. We also add 0.1uF caps onto both sides and a 10K pull-up resistor on the output enable pin so you can use it right out of the box!
+
+## License
+Adafruit invests time and resources providing this open source design,
+please support Adafruit and open-source hardware by purchasing
+products from Adafruit!
+
+Designed by Adafruit Industries.
+Creative Commons Attribution, Share-Alike license, check license.txt for more information
+All text above must be included in any redistribution
+
